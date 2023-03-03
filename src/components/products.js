@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    title: "Air Filter",
+    description: "Prevents your engine",
+    price: "2500",
+    img: "./images/air.png",
+    quantity: 1,
+  },
+  {
+    id: 2,
+    title: "oil filter",
+    description: "helps remove contaminates from your car",
+    price: "2300",
+    img: "./images/oil.jpg",
+    quantity: 1,
+  },
+  {
+    id: 3,
+    title: "metal sheet",
+    description: "used in automobile and truck bodies,major appliance",
+    price: "3500",
+    img: "./images/metal.jpg",
+    quantity: 1,
+  },
+  {
+    id: 4,
+    title: "caps",
+    description: "Extend filter life",
+    price: "4500",
+    img: "./images/cap.jpg",
+    quantity: 1,
+  },
+  {
+    id: 5,
+    title: "punch sheet",
+    description: "Sheet metal punching",
+    price: "2500",
+    img: "./images/e.jpg",
+    quantity: 1,
+  },
+];
